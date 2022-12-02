@@ -23,9 +23,9 @@ h1 {
     
 }
 
-h2, 
-h3,
-h4{
+
+h2 {
+    color: azure;
     font-style: oblique;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     border: 7px solid darkcyan;
